@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       // title={`Hello from ${siteConfig.title}`}
-      description="寫程式的小說家。一位菜鳥前端工程師的筆記和小說書櫃">
+      description="獻給您，來自大自然的贈禮">
       <HomepageHeader />
     </Layout>
   );
