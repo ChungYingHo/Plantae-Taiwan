@@ -45,6 +45,8 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         blog: {
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
