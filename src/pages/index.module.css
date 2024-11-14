@@ -4,15 +4,33 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  height: calc(100vh - 3.75rem);
+  padding: 8rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url(/static/img/main-page.jpg);
+  background-size: cover;
+}
+
+.title {
+  font-size: 5rem;
+}
+
+.logo {
+  margin: 0 auto;
+  margin-bottom: 1.5rem;
+  width: 13vw;
 }
 
 @media screen and (max-width: 996px) {
-  .heroBanner {
+
+  /* .heroBanner {
     padding: 2rem;
+    height: fit-content;
+  } */
+  .logo {
+    width: 50vw;
   }
 }
 
