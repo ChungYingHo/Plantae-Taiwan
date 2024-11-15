@@ -46,7 +46,7 @@ tags: [植宇宙節氣錄]
 ![](./static/img/readme/04.png)
 
 ## 照片上傳
-1. 跟文章同一層有個 **asset** 資料夾，點進去後，右上角有個 **Add fil**，點下去後選擇 **Upload files**
+1. 跟文章同一層有個 **asset** 資料夾，點進去後，右上角有個 **Add file**，點下去後選擇 **Upload files**
 
 ![](./static/img/readme/05.png)
 
@@ -63,3 +63,8 @@ tags: [植宇宙節氣錄]
   - 照片放在 **static/img** 資料夾，引用時請使用相對路徑，例如：`<img src="/img/logo-banner.jpg" alt="植宇宙" width="500" />`，注意引用時不用帶 **static**。
 2. src/pages/store.msx：產品介紹頁面，可以自行編輯文字內容
   - 照片放在 **static/img/product** 資料夾，引用時請使用相對路徑，例如：`<img src="/img/product/pomelo-10.jpg"`，注意引用時不用帶 **static**。
+
+## Markdown 語法教學
+撰文採用 Markdown 語法，可以參考下列網站：
+- [Markdown 語法教學](https://markdown.tw/)
+- [表情符號] (https://gist.github.com/rxaviers/7360908)
