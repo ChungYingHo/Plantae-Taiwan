@@ -67,4 +67,4 @@ tags: [植宇宙節氣錄]
 ## Markdown 語法教學
 撰文採用 Markdown 語法，可以參考下列網站：
 - [Markdown 語法教學](https://markdown.tw/)
-- [表情符號] (https://gist.github.com/rxaviers/7360908)
+- [表情符號](https://gist.github.com/rxaviers/7360908)
